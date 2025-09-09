@@ -17,3 +17,6 @@ Static portfolio website.
 
 ## To publish
 Push this folder to GitHub and enable GitHub Pages (or use Netlify).
+
+## Portfolio link 
+https://naduto.github.io/My_Portfolio/
