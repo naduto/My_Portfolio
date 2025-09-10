@@ -11,9 +11,7 @@ Static portfolio website.
 
 ## Files
 - `index.html` — main page
-- `assets/css/style.css` — styles
-- `assets/js/main.js` — scripts
-- `assets/img/` — images & screenshots
+- `assets/img/` — image
 
 ## To publish
 Push this folder to GitHub and enable GitHub Pages (or use Netlify).
